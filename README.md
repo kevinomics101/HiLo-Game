@@ -19,7 +19,5 @@ card.py -
   adds functionality and scoring to game
 
 Required Software:
-Team Members:
+Author:
 Kevin Cross Minchakpu - kevinomics101@gmail.com
-Mark Manuel - man20001@byui.edu
-Matthew Bermudes - mathewbermudez4@gmail.com
