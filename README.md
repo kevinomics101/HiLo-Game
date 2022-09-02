@@ -1,4 +1,4 @@
-# byui-cse210-hilo
+# Kevinomics101 HiLo
 
 Hilo is a game which player gusses if the next card drawn by the dealer will be whether higher or lower that the current card.
 The Player will have 300 points at the start of the game,
